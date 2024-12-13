@@ -1,6 +1,6 @@
 # Chatbot Using OpenAI API
 
-![ChatGPT Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" width="200" />
 
 A simple chatbot application built using OpenAI's API for generating intelligent and human-like responses. This project includes a Node.js backend and a React-based frontend, offering a seamless user experience for interacting with an AI-powered chatbot.
 
